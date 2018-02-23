@@ -1,0 +1,33 @@
+.c-btn {
+  font-size: 14px;
+}
+
+.c-btn-1 {
+  border: 1px solid #ccc;
+  padding: 20px 10px;
+  background-color: transparent;
+  color: $color-3;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.c-btn-2 {
+  border: 1px solid #ccc;
+  padding: 20px 40px;
+  background-color: $color-1;
+  color: $color-3;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-bottom: 3px solid $color-9;
+}
+
+.c-btn-3 {
+  border: 1px solid #f27620;
+  padding: 10px 40px;
+  background-color: transparent;
+  color: #f27620;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 700;
+  font-style: italic;
+}
